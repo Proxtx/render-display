@@ -1,0 +1,24 @@
+{
+  "name": "render-display",
+  "version": "1.0.0",
+  "description": "display a render-process, where the images are numbered",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proxtx/render-display.git"
+  },
+  "author": "Proxtx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proxtx/render-display/issues"
+  },
+  "homepage": "https://github.com/Proxtx/render-display#readme",
+  "dependencies": {
+    "@proxtx/config": "^1.0.2",
+    "@proxtx/framework": "^1.5.8"
+  }
+}
